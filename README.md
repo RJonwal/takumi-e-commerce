@@ -10,8 +10,8 @@ The project demonstrates product sorting, price formatting, responsive grids, an
 1. **Clone the repository:**
  
 ```bash
-git clone https://github.com/RJonwal/takumi-e-commerce
-
+git clone https://github.com/RJonwal/takumi-e-commerce.git
+			
 cd takumi-e-commerce
  
     Install dependencies:
